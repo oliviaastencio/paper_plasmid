@@ -1,0 +1,55 @@
+COMMON	DATATYPE		type	WGS
+	KEYWORD		keyword	WGS
+			keyword	STANDARD_DRAFT
+	DBLINK		project	
+			biosample	
+	SUBMITTER		ab_name	
+			ab_name	
+			ab_name	
+			contact	
+			email	
+			phone	
+			fax	
+			institute	
+			country	
+			city	
+			street	
+			zip	
+	REFERENCE		title	
+			ab_name	
+			ab_name	
+			ab_name	
+			status	Unpublished
+			year	
+	COMMENT		line	Annotated at DFAST https://dfast.nig.ac.jp/
+	ST_COMMENT		tagset_id	Genome-Assembly-Data
+			Assembly Method	
+			Genome Coverage	
+			Sequencing Technology	
+sequence1	source	1..3181	organism	Genus sp.
+			strain	unspecified
+			mol_type	genomic DNA
+			submitter_seqid	@@[entry]@@
+			ff_definition	@@[organism]@@ @@[strain]@@ DNA, @@[submitter_seqid]@@
+	CDS	complement(800..1252)	product	hypothetical protein
+			transl_table	11
+			codon_start	1
+			locus_tag	LOCUS_10
+			inference	COORDINATES:ab initio prediction:MetaGeneAnnotator
+			inference	similar to AA sequence:UniProtKB:P43936
+	CDS	complement(1253..1666)	product	hypothetical protein
+			transl_table	11
+			codon_start	1
+			locus_tag	LOCUS_20
+			inference	COORDINATES:ab initio prediction:MetaGeneAnnotator
+	CDS	complement(1724..1927)	product	hypothetical protein
+			transl_table	11
+			codon_start	1
+			locus_tag	LOCUS_30
+			inference	COORDINATES:ab initio prediction:MetaGeneAnnotator
+	CDS	2561..2815	product	hypothetical protein
+			transl_table	11
+			codon_start	1
+			locus_tag	LOCUS_40
+			inference	COORDINATES:ab initio prediction:MetaGeneAnnotator
+			inference	similar to AA sequence:RefSeq:WP_011074454.1

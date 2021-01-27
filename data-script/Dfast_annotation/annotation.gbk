@@ -1,0 +1,129 @@
+LOCUS       sequence1               3181 bp    DNA     linear   BCT 27-JAN-2021
+DEFINITION  Genus sp. unspecified DNA, contig: sequence1.
+ACCESSION   sequence1
+VERSION     sequence1.1
+KEYWORDS    .
+SOURCE      Genus sp. unspecified
+  ORGANISM  Genus sp. unspecified
+            .
+COMMENT     Annotated by DFAST (https://dfast.nig.ac.jp).
+FEATURES             Location/Qualifiers
+     source          1..3181
+                     /mol_type="genomic DNA"
+                     /organism="Genus sp."
+                     /strain="unspecified"
+     CDS             complement(800..1252)
+                     /product="hypothetical protein"
+                     /inference="COORDINATES:ab initio
+                     prediction:MetaGeneAnnotator"
+                     /inference="similar to AA sequence:UniProtKB:P43936"
+                     /transl_table=11
+                     /codon_start=1
+                     /translation="MINYSPKVGEVLECDFGQFQYDPETQRPLTNNYNGRIPPEIVKKR
+                     MIIVLNGKLDSGCLVVPISSTRNLGGISKGLHVLIEPNNFRVTNFYDMRERWAKTDLIQ
+                     MVSRQRLYKLMDNGQRFDHYLSREIVTQVQLAVIKAVSASTLLSQA"
+                     /locus_tag="LOCUS_10"
+                     /note="P43936 hypothetical protein (Haemophilus influenzae
+                     Rd KW20) [pid:50.7%, q_cov:97.3%, s_cov:96.5%,
+                     Eval:4.1e-36]"
+                     /note="Domain:cl00995:PemK_toxin PemK-like, MazF-like toxin
+                     of type II toxin-antitoxin system. plasmid maintenance
+                     protein CcdB; Provisional [Superfamily, Aligned:2-147,
+                     Eval:2.5e-43, score:137.4]"
+                     /note="MGA_1"
+     CDS             complement(1253..1666)
+                     /product="hypothetical protein"
+                     /inference="COORDINATES:ab initio
+                     prediction:MetaGeneAnnotator"
+                     /transl_table=11
+                     /codon_start=1
+                     /translation="MDSKKSKRIKGAGSITITWSDEVLRYISQLQSRFTTYKLRNIANL
+                     QSSHSIRLYELLQRFNDKNYRVILIDDFRSALGLGDKYSQFKDLNKWVVKPSVEELNQR
+                     SDLVIEYDTIKKGRTVTALAFTFKQNKQLKMDI"
+                     /locus_tag="LOCUS_20"
+                     /note="Domain:cl27919:L_lactis_RepB_C Lactococcus lactis
+                     RepB C-terminus. This family consists of the C-terminal
+                     region of RepB proteins from Lactococcus lactis (See
+                     pfam01051). [Superfamily, Aligned:9-131, Eval:8.0e-21,
+                     score:83.0, C-term missing]"
+                     /note="MGA_2"
+     CDS             complement(1724..1927)
+                     /product="hypothetical protein"
+                     /inference="COORDINATES:ab initio
+                     prediction:MetaGeneAnnotator"
+                     /transl_table=11
+                     /codon_start=1
+                     /translation="MNNLSVTKANNLIDASYRLNIQAQKLVLACLGMVDPRSEIPKTMT
+                     ITALQFADNGYTKRPQRAIQRG"
+                     /locus_tag="LOCUS_30"
+                     /note="MGA_3"
+     CDS             2561..2815
+                     /product="hypothetical protein"
+                     /inference="COORDINATES:ab initio
+                     prediction:MetaGeneAnnotator"
+                     /inference="similar to AA sequence:RefSeq:WP_011074454.1"
+                     /transl_table=11
+                     /codon_start=1
+                     /translation="MGIAMTETKNHGGARPGAGRKTKYEKTTVMRVPEKYQEAIKALIA
+                     HLDSTAEINRHFQPVESEKIYLRSLNDNKQHLTFKISPF"
+                     /locus_tag="LOCUS_40"
+                     /note="WP_011074454.1 hypothetical protein (Shewanella
+                     oneidensis MR-1) [pid:66.7%, q_cov:92.9%, s_cov:88.6%,
+                     Eval:5.8e-25]"
+                     /note="MGA_4"
+ORIGIN
+        1 aaacaacccc tttcccttta aaattgccct tttacccaaa ggaacccggg gaccgttaaa
+       61 ccctttccgg gatttttcat gggaaggaac taaaggccga caagccttta cagcggtccg
+      121 gcctttttga atgaatttgt actaaatcaa gcttctgaag tcaaaaaata ggtcgaaccc
+      181 ttgcgacagt aacgatcgca acaaagaaac cggcatccag tcacgcatta aagttttcat
+      241 ccatttcctt ttaattttgg gcagtgtatt ggcctgattt aggctcttta gaggcgcgtt
+      301 cagggcttag attaggctcg aactaggctc tttcggggct cgaattaggc tcaatcgaga
+      361 cgcgatctag agctagttct acaagattct agagaaagat aggcacgctg tcgaaagtat
+      421 actttgttgc ttcgcaagtc gtatatttcg cgtgcttagg gctcccctaa taccccttta
+      481 aactctacga gtttttgagg ataaatgtac aattgttgaa aataacattt gtacatttga
+      541 ttttgtaact tattcaaatt aatgtagata aaaagcattt ataagtgcag aaacaagtgc
+      601 atgggcaaac tattgttttt taataaaaaa ttatttaaat cagtggtttg ctgtaaactt
+      661 gaatctccac tatttactat aatactgctt gcattattga cggtatggtc atattatgac
+      721 ttcgtagccc tagaggcctt aagtattttg tccgttagag gactagaaag cccagatttt
+      781 catctgggct ttcgcctttc taggcttgag atagcagggt ggaggcacta accgctttta
+      841 tcacagcaag ctgcacttga gttactatct ccctcgataa gtagtgatcg aatctctgtc
+      901 cattatccat aagcttatac agccgctgac gactaaccat ttgtatcaaa tctgtttttg
+      961 cccaacgttc ccgcatgtcg taaaaattag tcactctaaa attatttggt tctattagga
+     1021 cgtgcaggcc tttactgatg ccccccaaat tcctcgtaga ggatattgga acgactaagc
+     1081 aaccactgtc taatttcccg tttagaacaa taatcatccg tttttttact atctcaggcg
+     1141 ggattcttcc gttgtagtta ttcgttaaag ggcgctgagt ttctggatca tattgaaatt
+     1201 gaccaaagtc acactccaac acttcaccga ctttgggact gtagttgatc atctagatat
+     1261 ccatctttaa ctgtttgttt tgtttgaaag taaaggctag tgcggtgact gttcggcctt
+     1321 ttttgatagt gtcgtactcg ataacgagat cgctacgctg gtttaattcc tcgacagagg
+     1381 gcttgaccac ccatttattc agatctttga attgcgagta tttgtcaccc agacccagcg
+     1441 cgctcctgaa atcatcaatc aaaatcactc gataattttt gtcgttaaag cgctgtagca
+     1501 gctcgtacaa acggattgaa tggctggact gtaggttggc gatgtttctc agtttgtagg
+     1561 tggtaaatcg gctctgtagc tggctgatat accgtaaaac ctcatcactc caagtgattg
+     1621 taattgaacc tgcccccttg atgcgcttgg atttctttga atccaacgta actcaacatc
+     1681 atcatttccc tctttgagga ctattgtcgc cccatagagt gcgtcaaccg cgctgtatag
+     1741 ctctctgtgg gcgtttggta tacccattat cagcgaattg taaggctgtt attgtcatgg
+     1801 ttttagggat ttcagaccta ggatcgacca tcccaaggca agctaaaact agcttttgag
+     1861 cctgaatatt caggcgataa ctagcgtcaa tcaagttgtt cgctttggtt acagatagat
+     1921 tattcatagg tggaatcctt gccttttact ccactatacc tataggtgga attcagtcaa
+     1981 tacttctccc cgtaaaggtg tgaatagaac tgcgaatctc tccacctata gcgcccaaag
+     2041 aactgcgaat ctctccacct atagcgccca aagaactgcg aatctctcca cctataaatg
+     2101 ctacagccca cgcgcaccaa gggctgtagg ctcgctacaa acaagaaaga tctttataca
+     2161 aacaagaaag atcttattac aaaggcgcaa gtctgtggat aactttgaaa aaatcaacca
+     2221 gttagagcga aaagcagcgg ctgcgccgcg accaagggct gcgccctagt tcgcctaaag
+     2281 gctccaccct tacccaaaaa tgcctcgcca tttcctgccg ttggcagggg cgagactgaa
+     2341 aaaaccgcgc tgcaggtgcg ttttgtcttc gaccattaag ctgtagcagt gcggatagga
+     2401 tggttaaaaa tcaaaagcgg cttagcaggg caagggcggg gcaaaaaagc gcccctaaaa
+     2461 gcgttccgct tcgcttccat gctttcgcta tgctcaaaag cgcataaagc aacttgatta
+     2521 tgtaactatt tcaagctatt ttgattttgt aactttttca atggggattg cgatgaccga
+     2581 aacaaaaaat catggagggg ctcgccctgg tgcaggccga aaaacgaaat acgaaaaaac
+     2641 aacggtgatg cgtgtacctg agaaatacca agaggcgatc aaggcgttga tcgctcactt
+     2701 ggacagtacc gcagagatca atcggcactt tcagccggtg gagtctgaaa aaatctattt
+     2761 acggtctcta aatgataaca agcagcatct cacgttcaaa attagcccat tttaacgcaa
+     2821 taggaagccc gtggagccgt ttaaatcact ttcgcggatg tttccatgtg aaagtgactt
+     2881 aaatggccga caagcgcttt acagcgcgtc aggcattttt gaattgaatt tgtaactaaa
+     2941 tcaagctatc tgaagtacaa aaaataggtc gaaaccattg cgacagtaac gatcgcaaca
+     3001 aagaaaacag gcatccagtc acgcattaaa gttttcatac attttccttt taattttggg
+     3061 cagggattgg cctgatttag gyctttaaag gscgttcagg gcttaaatag gmtcraacwa
+     3121 ggyctttcgg ggctcgaatt aggyymatcg aaaccgawct aaagctattc taaaaatttc
+     3181 a
+//
