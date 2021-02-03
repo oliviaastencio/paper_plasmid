@@ -1,0 +1,19 @@
+# BLASTN 2.2.30+
+# Query: Contig_1
+# Subject: NC_009997.1 Shewanella baltica OS195, complete sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_1
+# Subject: NC_009998.1 Shewanella baltica OS195 plasmid pS19501, complete sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_1
+# Subject: NC_009999.1 Shewanella baltica OS195 plasmid pS19502, complete sequence
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, subject length
+# 1 hits found
+Contig_1	NC_009999.1	84.44	90	10	3	2295	2382	48060	48147	2e-16	86.1	3181	75508
+# BLASTN 2.2.30+
+# Query: Contig_1
+# Subject: NC_010000.1 Shewanella baltica OS195 plasmid pS19503, complete sequence
+# 0 hits found
+# BLAST processed 1 queries

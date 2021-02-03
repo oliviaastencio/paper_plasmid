@@ -1,0 +1,2 @@
+chr - seq1 Contig_1 0 3181 green_a4
+chr - seq2 Contig_sh4FINAL 0 2990 green_a4

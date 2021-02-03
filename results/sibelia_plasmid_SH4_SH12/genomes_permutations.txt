@@ -1,0 +1,4 @@
+>Contig_1
++1 $
+>Contig_sh4FINAL
++1 $

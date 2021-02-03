@@ -1,0 +1,2 @@
+seq1 231 2954 fill_color=green_a0
+seq2 5 2990 fill_color=green_a0

@@ -1,0 +1,21 @@
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NC_011663.1 Shewanella baltica OS223, complete sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NC_011664.1 Shewanella baltica OS223 plasmid pS22301, complete sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NC_011668.1 Shewanella baltica OS223 plasmid pS22302, complete sequence
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, subject length
+# 1 hits found
+Contig_sh4FINAL	NC_011668.1	84.44	90	10	3	2331	2418	33753	33840	2e-16	86.1	2990	65448
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NC_011665.1 Shewanella baltica OS223 plasmid pS22303, complete sequence
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, subject length
+# 1 hits found
+Contig_sh4FINAL	NC_011665.1	84.44	90	10	4	2331	2418	16179	16092	2e-16	86.1	2990	59223
+# BLAST processed 1 queries

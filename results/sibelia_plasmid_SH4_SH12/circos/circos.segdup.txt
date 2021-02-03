@@ -1,0 +1,2 @@
+block_0 seq2 5 2990 color=chr1_a2
+block_0 seq1 231 2954 color=chr1_a2

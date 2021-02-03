@@ -1,0 +1,4543 @@
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_CM009108.1 Shewanella sp. 11B5 plasmid unnamed1, whole genome shotgun sequence
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, subject length
+# 1 hits found
+Contig_sh4FINAL	NZ_CM009108.1	97.56	41	1	0	2331	2371	3578	3618	5e-15	71.3	2990	4956
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000259.1 Shewanella sp. 11B5 contig1, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000268.1 Shewanella sp. 11B5 contig10, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000374.1 Shewanella sp. 11B5 contig100, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000097.1 Shewanella sp. 11B5 contig1000, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000098.1 Shewanella sp. 11B5 contig1001, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000099.1 Shewanella sp. 11B5 contig1002, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000100.1 Shewanella sp. 11B5 contig1003, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000101.1 Shewanella sp. 11B5 contig1004, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000102.1 Shewanella sp. 11B5 contig1005, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000103.1 Shewanella sp. 11B5 contig1006, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000104.1 Shewanella sp. 11B5 contig1007, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000105.1 Shewanella sp. 11B5 contig1008, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000106.1 Shewanella sp. 11B5 contig1009, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000375.1 Shewanella sp. 11B5 contig101, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000107.1 Shewanella sp. 11B5 contig1010, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000108.1 Shewanella sp. 11B5 contig1011, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000109.1 Shewanella sp. 11B5 contig1012, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000110.1 Shewanella sp. 11B5 contig1013, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000111.1 Shewanella sp. 11B5 contig1014, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000112.1 Shewanella sp. 11B5 contig1015, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000113.1 Shewanella sp. 11B5 contig1016, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000114.1 Shewanella sp. 11B5 contig1017, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000115.1 Shewanella sp. 11B5 contig1018, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000116.1 Shewanella sp. 11B5 contig1019, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000376.1 Shewanella sp. 11B5 contig102, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000117.1 Shewanella sp. 11B5 contig1020, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000118.1 Shewanella sp. 11B5 contig1021, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000119.1 Shewanella sp. 11B5 contig1022, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000120.1 Shewanella sp. 11B5 contig1023, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000121.1 Shewanella sp. 11B5 contig1024, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000122.1 Shewanella sp. 11B5 contig1025, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000123.1 Shewanella sp. 11B5 contig1026, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000124.1 Shewanella sp. 11B5 contig1027, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000125.1 Shewanella sp. 11B5 contig1028, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000126.1 Shewanella sp. 11B5 contig1029, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000377.1 Shewanella sp. 11B5 contig103, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000127.1 Shewanella sp. 11B5 contig1030, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000128.1 Shewanella sp. 11B5 contig1031, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000129.1 Shewanella sp. 11B5 contig1032, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000130.1 Shewanella sp. 11B5 contig1033, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000131.1 Shewanella sp. 11B5 contig1034, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000132.1 Shewanella sp. 11B5 contig1035, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000133.1 Shewanella sp. 11B5 contig1036, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000134.1 Shewanella sp. 11B5 contig1037, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000135.1 Shewanella sp. 11B5 contig1038, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000136.1 Shewanella sp. 11B5 contig1039, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000378.1 Shewanella sp. 11B5 contig104, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000137.1 Shewanella sp. 11B5 contig1040, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000138.1 Shewanella sp. 11B5 contig1041, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000139.1 Shewanella sp. 11B5 contig1042, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000140.1 Shewanella sp. 11B5 contig1043, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000141.1 Shewanella sp. 11B5 contig1044, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000142.1 Shewanella sp. 11B5 contig1045, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000143.1 Shewanella sp. 11B5 contig1046, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000144.1 Shewanella sp. 11B5 contig1047, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000145.1 Shewanella sp. 11B5 contig1048, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000146.1 Shewanella sp. 11B5 contig1049, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000379.1 Shewanella sp. 11B5 contig105, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000147.1 Shewanella sp. 11B5 contig1050, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000148.1 Shewanella sp. 11B5 contig1051, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000149.1 Shewanella sp. 11B5 contig1052, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000150.1 Shewanella sp. 11B5 contig1053, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000151.1 Shewanella sp. 11B5 contig1054, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000152.1 Shewanella sp. 11B5 contig1055, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000153.1 Shewanella sp. 11B5 contig1056, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000154.1 Shewanella sp. 11B5 contig1057, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000155.1 Shewanella sp. 11B5 contig1058, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000156.1 Shewanella sp. 11B5 contig1059, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000380.1 Shewanella sp. 11B5 contig106, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000157.1 Shewanella sp. 11B5 contig1060, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000158.1 Shewanella sp. 11B5 contig1061, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000159.1 Shewanella sp. 11B5 contig1062, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000160.1 Shewanella sp. 11B5 contig1063, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000161.1 Shewanella sp. 11B5 contig1064, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000162.1 Shewanella sp. 11B5 contig1065, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000163.1 Shewanella sp. 11B5 contig1066, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000164.1 Shewanella sp. 11B5 contig1067, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000165.1 Shewanella sp. 11B5 contig1068, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000166.1 Shewanella sp. 11B5 contig1069, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000381.1 Shewanella sp. 11B5 contig107, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000167.1 Shewanella sp. 11B5 contig1070, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000168.1 Shewanella sp. 11B5 contig1071, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000169.1 Shewanella sp. 11B5 contig1072, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000170.1 Shewanella sp. 11B5 contig1073, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000171.1 Shewanella sp. 11B5 contig1074, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000172.1 Shewanella sp. 11B5 contig1075, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000173.1 Shewanella sp. 11B5 contig1076, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000174.1 Shewanella sp. 11B5 contig1077, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000175.1 Shewanella sp. 11B5 contig1078, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000176.1 Shewanella sp. 11B5 contig1079, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000382.1 Shewanella sp. 11B5 contig108, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000177.1 Shewanella sp. 11B5 contig1080, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000178.1 Shewanella sp. 11B5 contig1081, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000179.1 Shewanella sp. 11B5 contig1082, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000180.1 Shewanella sp. 11B5 contig1083, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000181.1 Shewanella sp. 11B5 contig1084, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000182.1 Shewanella sp. 11B5 contig1085, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000183.1 Shewanella sp. 11B5 contig1086, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000184.1 Shewanella sp. 11B5 contig1087, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000185.1 Shewanella sp. 11B5 contig1088, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000186.1 Shewanella sp. 11B5 contig1089, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000383.1 Shewanella sp. 11B5 contig109, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000187.1 Shewanella sp. 11B5 contig1090, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000188.1 Shewanella sp. 11B5 contig1091, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000189.1 Shewanella sp. 11B5 contig1092, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000190.1 Shewanella sp. 11B5 contig1093, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000191.1 Shewanella sp. 11B5 contig1094, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000192.1 Shewanella sp. 11B5 contig1095, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000193.1 Shewanella sp. 11B5 contig1096, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000194.1 Shewanella sp. 11B5 contig1097, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000195.1 Shewanella sp. 11B5 contig1098, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000196.1 Shewanella sp. 11B5 contig1099, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000269.1 Shewanella sp. 11B5 contig11, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000384.1 Shewanella sp. 11B5 contig110, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000197.1 Shewanella sp. 11B5 contig1100, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000198.1 Shewanella sp. 11B5 contig1101, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000199.1 Shewanella sp. 11B5 contig1102, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000200.1 Shewanella sp. 11B5 contig1103, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000201.1 Shewanella sp. 11B5 contig1104, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000202.1 Shewanella sp. 11B5 contig1105, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000203.1 Shewanella sp. 11B5 contig1106, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000204.1 Shewanella sp. 11B5 contig1107, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000205.1 Shewanella sp. 11B5 contig1108, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000206.1 Shewanella sp. 11B5 contig1109, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000385.1 Shewanella sp. 11B5 contig111, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000207.1 Shewanella sp. 11B5 contig1110, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000208.1 Shewanella sp. 11B5 contig1111, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000209.1 Shewanella sp. 11B5 contig1112, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000210.1 Shewanella sp. 11B5 contig1113, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000211.1 Shewanella sp. 11B5 contig1114, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000212.1 Shewanella sp. 11B5 contig1115, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000213.1 Shewanella sp. 11B5 contig1116, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000214.1 Shewanella sp. 11B5 contig1117, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000215.1 Shewanella sp. 11B5 contig1118, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000216.1 Shewanella sp. 11B5 contig1119, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000386.1 Shewanella sp. 11B5 contig112, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000001.1 Shewanella sp. 11B5 contig1120, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000002.1 Shewanella sp. 11B5 contig1121, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000003.1 Shewanella sp. 11B5 contig1122, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000004.1 Shewanella sp. 11B5 contig1123, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000005.1 Shewanella sp. 11B5 contig1124, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000006.1 Shewanella sp. 11B5 contig1125, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000007.1 Shewanella sp. 11B5 contig1126, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000008.1 Shewanella sp. 11B5 contig1127, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000009.1 Shewanella sp. 11B5 contig1128, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000010.1 Shewanella sp. 11B5 contig1129, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000387.1 Shewanella sp. 11B5 contig113, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000011.1 Shewanella sp. 11B5 contig1130, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000012.1 Shewanella sp. 11B5 contig1131, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000013.1 Shewanella sp. 11B5 contig1132, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000014.1 Shewanella sp. 11B5 contig1133, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000015.1 Shewanella sp. 11B5 contig1134, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000016.1 Shewanella sp. 11B5 contig1135, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000388.1 Shewanella sp. 11B5 contig114, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000389.1 Shewanella sp. 11B5 contig115, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000390.1 Shewanella sp. 11B5 contig116, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000391.1 Shewanella sp. 11B5 contig117, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000392.1 Shewanella sp. 11B5 contig118, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000393.1 Shewanella sp. 11B5 contig119, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000270.1 Shewanella sp. 11B5 contig12, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000394.1 Shewanella sp. 11B5 contig120, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000395.1 Shewanella sp. 11B5 contig121, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000288.1 Shewanella sp. 11B5 contig122, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000289.1 Shewanella sp. 11B5 contig123, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000290.1 Shewanella sp. 11B5 contig124, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000291.1 Shewanella sp. 11B5 contig125, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000292.1 Shewanella sp. 11B5 contig126, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000293.1 Shewanella sp. 11B5 contig127, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000294.1 Shewanella sp. 11B5 contig128, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000295.1 Shewanella sp. 11B5 contig129, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000271.1 Shewanella sp. 11B5 contig13, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000296.1 Shewanella sp. 11B5 contig130, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000297.1 Shewanella sp. 11B5 contig131, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000298.1 Shewanella sp. 11B5 contig132, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000299.1 Shewanella sp. 11B5 contig133, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000300.1 Shewanella sp. 11B5 contig134, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000301.1 Shewanella sp. 11B5 contig135, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000302.1 Shewanella sp. 11B5 contig136, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000303.1 Shewanella sp. 11B5 contig137, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000304.1 Shewanella sp. 11B5 contig138, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000305.1 Shewanella sp. 11B5 contig139, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000272.1 Shewanella sp. 11B5 contig14, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000306.1 Shewanella sp. 11B5 contig140, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000307.1 Shewanella sp. 11B5 contig141, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000308.1 Shewanella sp. 11B5 contig142, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000309.1 Shewanella sp. 11B5 contig143, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000310.1 Shewanella sp. 11B5 contig144, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000311.1 Shewanella sp. 11B5 contig145, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000312.1 Shewanella sp. 11B5 contig146, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000313.1 Shewanella sp. 11B5 contig147, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000314.1 Shewanella sp. 11B5 contig148, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000315.1 Shewanella sp. 11B5 contig149, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000273.1 Shewanella sp. 11B5 contig15, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000316.1 Shewanella sp. 11B5 contig150, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000317.1 Shewanella sp. 11B5 contig151, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000318.1 Shewanella sp. 11B5 contig152, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000319.1 Shewanella sp. 11B5 contig153, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000320.1 Shewanella sp. 11B5 contig154, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000321.1 Shewanella sp. 11B5 contig155, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000322.1 Shewanella sp. 11B5 contig156, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000323.1 Shewanella sp. 11B5 contig157, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000324.1 Shewanella sp. 11B5 contig158, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000325.1 Shewanella sp. 11B5 contig159, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000274.1 Shewanella sp. 11B5 contig16, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000326.1 Shewanella sp. 11B5 contig160, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000327.1 Shewanella sp. 11B5 contig161, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000328.1 Shewanella sp. 11B5 contig162, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000329.1 Shewanella sp. 11B5 contig163, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000330.1 Shewanella sp. 11B5 contig164, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000331.1 Shewanella sp. 11B5 contig165, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000332.1 Shewanella sp. 11B5 contig166, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000333.1 Shewanella sp. 11B5 contig167, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000334.1 Shewanella sp. 11B5 contig168, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000335.1 Shewanella sp. 11B5 contig169, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000275.1 Shewanella sp. 11B5 contig17, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000336.1 Shewanella sp. 11B5 contig170, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000337.1 Shewanella sp. 11B5 contig171, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000338.1 Shewanella sp. 11B5 contig172, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000339.1 Shewanella sp. 11B5 contig173, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000340.1 Shewanella sp. 11B5 contig174, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000341.1 Shewanella sp. 11B5 contig175, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000342.1 Shewanella sp. 11B5 contig176, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000343.1 Shewanella sp. 11B5 contig177, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000344.1 Shewanella sp. 11B5 contig178, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000345.1 Shewanella sp. 11B5 contig179, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000276.1 Shewanella sp. 11B5 contig18, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000479.1 Shewanella sp. 11B5 contig180, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000480.1 Shewanella sp. 11B5 contig181, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000481.1 Shewanella sp. 11B5 contig182, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000482.1 Shewanella sp. 11B5 contig183, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000483.1 Shewanella sp. 11B5 contig184, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000484.1 Shewanella sp. 11B5 contig185, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000485.1 Shewanella sp. 11B5 contig186, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000486.1 Shewanella sp. 11B5 contig187, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000487.1 Shewanella sp. 11B5 contig188, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000488.1 Shewanella sp. 11B5 contig189, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000277.1 Shewanella sp. 11B5 contig19, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000489.1 Shewanella sp. 11B5 contig190, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000490.1 Shewanella sp. 11B5 contig191, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000491.1 Shewanella sp. 11B5 contig192, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000492.1 Shewanella sp. 11B5 contig193, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000493.1 Shewanella sp. 11B5 contig194, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000494.1 Shewanella sp. 11B5 contig195, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000495.1 Shewanella sp. 11B5 contig196, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000496.1 Shewanella sp. 11B5 contig197, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000497.1 Shewanella sp. 11B5 contig198, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000498.1 Shewanella sp. 11B5 contig199, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000260.1 Shewanella sp. 11B5 contig2, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000278.1 Shewanella sp. 11B5 contig20, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000499.1 Shewanella sp. 11B5 contig200, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000500.1 Shewanella sp. 11B5 contig201, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000501.1 Shewanella sp. 11B5 contig202, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000502.1 Shewanella sp. 11B5 contig203, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000503.1 Shewanella sp. 11B5 contig204, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000504.1 Shewanella sp. 11B5 contig205, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000505.1 Shewanella sp. 11B5 contig206, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000506.1 Shewanella sp. 11B5 contig207, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000507.1 Shewanella sp. 11B5 contig208, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000508.1 Shewanella sp. 11B5 contig209, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000279.1 Shewanella sp. 11B5 contig21, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000509.1 Shewanella sp. 11B5 contig210, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000510.1 Shewanella sp. 11B5 contig211, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000511.1 Shewanella sp. 11B5 contig212, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000512.1 Shewanella sp. 11B5 contig213, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000513.1 Shewanella sp. 11B5 contig214, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000514.1 Shewanella sp. 11B5 contig215, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000515.1 Shewanella sp. 11B5 contig216, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000516.1 Shewanella sp. 11B5 contig217, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000517.1 Shewanella sp. 11B5 contig218, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000518.1 Shewanella sp. 11B5 contig219, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000280.1 Shewanella sp. 11B5 contig22, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000519.1 Shewanella sp. 11B5 contig220, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000520.1 Shewanella sp. 11B5 contig221, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000521.1 Shewanella sp. 11B5 contig222, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000522.1 Shewanella sp. 11B5 contig223, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000523.1 Shewanella sp. 11B5 contig224, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000524.1 Shewanella sp. 11B5 contig225, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000525.1 Shewanella sp. 11B5 contig226, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000526.1 Shewanella sp. 11B5 contig227, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000527.1 Shewanella sp. 11B5 contig228, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000528.1 Shewanella sp. 11B5 contig229, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000281.1 Shewanella sp. 11B5 contig23, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000529.1 Shewanella sp. 11B5 contig230, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000530.1 Shewanella sp. 11B5 contig231, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000531.1 Shewanella sp. 11B5 contig232, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000532.1 Shewanella sp. 11B5 contig233, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000533.1 Shewanella sp. 11B5 contig234, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000534.1 Shewanella sp. 11B5 contig235, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000535.1 Shewanella sp. 11B5 contig236, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000536.1 Shewanella sp. 11B5 contig237, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000537.1 Shewanella sp. 11B5 contig238, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000538.1 Shewanella sp. 11B5 contig239, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000282.1 Shewanella sp. 11B5 contig24, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000539.1 Shewanella sp. 11B5 contig240, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000540.1 Shewanella sp. 11B5 contig241, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000541.1 Shewanella sp. 11B5 contig242, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000542.1 Shewanella sp. 11B5 contig243, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000543.1 Shewanella sp. 11B5 contig244, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000544.1 Shewanella sp. 11B5 contig245, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000545.1 Shewanella sp. 11B5 contig246, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000546.1 Shewanella sp. 11B5 contig247, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000547.1 Shewanella sp. 11B5 contig248, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000548.1 Shewanella sp. 11B5 contig249, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000283.1 Shewanella sp. 11B5 contig25, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000396.1 Shewanella sp. 11B5 contig250, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000397.1 Shewanella sp. 11B5 contig251, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000398.1 Shewanella sp. 11B5 contig252, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000399.1 Shewanella sp. 11B5 contig253, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000400.1 Shewanella sp. 11B5 contig254, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000401.1 Shewanella sp. 11B5 contig255, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000402.1 Shewanella sp. 11B5 contig256, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000403.1 Shewanella sp. 11B5 contig257, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000404.1 Shewanella sp. 11B5 contig258, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000405.1 Shewanella sp. 11B5 contig259, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000284.1 Shewanella sp. 11B5 contig26, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000406.1 Shewanella sp. 11B5 contig260, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000407.1 Shewanella sp. 11B5 contig261, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000408.1 Shewanella sp. 11B5 contig262, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000409.1 Shewanella sp. 11B5 contig263, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000410.1 Shewanella sp. 11B5 contig264, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000411.1 Shewanella sp. 11B5 contig265, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000412.1 Shewanella sp. 11B5 contig266, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000413.1 Shewanella sp. 11B5 contig267, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000414.1 Shewanella sp. 11B5 contig268, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000415.1 Shewanella sp. 11B5 contig269, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000285.1 Shewanella sp. 11B5 contig27, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000416.1 Shewanella sp. 11B5 contig270, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000417.1 Shewanella sp. 11B5 contig271, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000418.1 Shewanella sp. 11B5 contig272, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000419.1 Shewanella sp. 11B5 contig273, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000420.1 Shewanella sp. 11B5 contig274, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000421.1 Shewanella sp. 11B5 contig275, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000422.1 Shewanella sp. 11B5 contig276, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000423.1 Shewanella sp. 11B5 contig277, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000424.1 Shewanella sp. 11B5 contig278, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000425.1 Shewanella sp. 11B5 contig279, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000286.1 Shewanella sp. 11B5 contig28, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000427.1 Shewanella sp. 11B5 contig281, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000428.1 Shewanella sp. 11B5 contig282, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000429.1 Shewanella sp. 11B5 contig283, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000430.1 Shewanella sp. 11B5 contig284, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000431.1 Shewanella sp. 11B5 contig285, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000432.1 Shewanella sp. 11B5 contig286, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000433.1 Shewanella sp. 11B5 contig287, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000434.1 Shewanella sp. 11B5 contig288, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000435.1 Shewanella sp. 11B5 contig289, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000287.1 Shewanella sp. 11B5 contig29, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000436.1 Shewanella sp. 11B5 contig290, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000437.1 Shewanella sp. 11B5 contig291, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000438.1 Shewanella sp. 11B5 contig292, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000439.1 Shewanella sp. 11B5 contig293, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000440.1 Shewanella sp. 11B5 contig294, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000441.1 Shewanella sp. 11B5 contig295, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000442.1 Shewanella sp. 11B5 contig296, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000443.1 Shewanella sp. 11B5 contig297, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000444.1 Shewanella sp. 11B5 contig298, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000445.1 Shewanella sp. 11B5 contig299, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000261.1 Shewanella sp. 11B5 contig3, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000217.1 Shewanella sp. 11B5 contig30, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000446.1 Shewanella sp. 11B5 contig300, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000447.1 Shewanella sp. 11B5 contig301, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000448.1 Shewanella sp. 11B5 contig302, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000449.1 Shewanella sp. 11B5 contig303, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000450.1 Shewanella sp. 11B5 contig304, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000451.1 Shewanella sp. 11B5 contig305, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000452.1 Shewanella sp. 11B5 contig306, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000453.1 Shewanella sp. 11B5 contig307, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000454.1 Shewanella sp. 11B5 contig308, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000455.1 Shewanella sp. 11B5 contig309, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000218.1 Shewanella sp. 11B5 contig31, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000456.1 Shewanella sp. 11B5 contig310, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000457.1 Shewanella sp. 11B5 contig311, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000458.1 Shewanella sp. 11B5 contig312, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000459.1 Shewanella sp. 11B5 contig313, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000460.1 Shewanella sp. 11B5 contig314, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000461.1 Shewanella sp. 11B5 contig315, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000462.1 Shewanella sp. 11B5 contig316, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000463.1 Shewanella sp. 11B5 contig317, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000464.1 Shewanella sp. 11B5 contig318, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000465.1 Shewanella sp. 11B5 contig319, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000219.1 Shewanella sp. 11B5 contig32, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000466.1 Shewanella sp. 11B5 contig320, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000467.1 Shewanella sp. 11B5 contig321, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000468.1 Shewanella sp. 11B5 contig322, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000469.1 Shewanella sp. 11B5 contig323, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000470.1 Shewanella sp. 11B5 contig324, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000471.1 Shewanella sp. 11B5 contig325, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000472.1 Shewanella sp. 11B5 contig326, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000473.1 Shewanella sp. 11B5 contig327, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000474.1 Shewanella sp. 11B5 contig328, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000475.1 Shewanella sp. 11B5 contig329, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000220.1 Shewanella sp. 11B5 contig33, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000476.1 Shewanella sp. 11B5 contig330, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000477.1 Shewanella sp. 11B5 contig331, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000478.1 Shewanella sp. 11B5 contig332, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000549.1 Shewanella sp. 11B5 contig333, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000550.1 Shewanella sp. 11B5 contig334, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000551.1 Shewanella sp. 11B5 contig335, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000552.1 Shewanella sp. 11B5 contig336, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000553.1 Shewanella sp. 11B5 contig337, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000554.1 Shewanella sp. 11B5 contig338, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000555.1 Shewanella sp. 11B5 contig339, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000221.1 Shewanella sp. 11B5 contig34, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000556.1 Shewanella sp. 11B5 contig340, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000557.1 Shewanella sp. 11B5 contig341, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000558.1 Shewanella sp. 11B5 contig342, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000559.1 Shewanella sp. 11B5 contig343, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000560.1 Shewanella sp. 11B5 contig344, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000561.1 Shewanella sp. 11B5 contig345, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000562.1 Shewanella sp. 11B5 contig346, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000563.1 Shewanella sp. 11B5 contig347, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000564.1 Shewanella sp. 11B5 contig348, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000565.1 Shewanella sp. 11B5 contig349, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000222.1 Shewanella sp. 11B5 contig35, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000566.1 Shewanella sp. 11B5 contig350, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000567.1 Shewanella sp. 11B5 contig351, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000568.1 Shewanella sp. 11B5 contig352, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000569.1 Shewanella sp. 11B5 contig353, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000570.1 Shewanella sp. 11B5 contig354, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000571.1 Shewanella sp. 11B5 contig355, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000572.1 Shewanella sp. 11B5 contig356, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000573.1 Shewanella sp. 11B5 contig357, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000574.1 Shewanella sp. 11B5 contig358, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000575.1 Shewanella sp. 11B5 contig359, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000223.1 Shewanella sp. 11B5 contig36, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000576.1 Shewanella sp. 11B5 contig360, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000577.1 Shewanella sp. 11B5 contig361, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000578.1 Shewanella sp. 11B5 contig362, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000579.1 Shewanella sp. 11B5 contig363, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000580.1 Shewanella sp. 11B5 contig364, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000581.1 Shewanella sp. 11B5 contig365, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000582.1 Shewanella sp. 11B5 contig366, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000583.1 Shewanella sp. 11B5 contig367, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000584.1 Shewanella sp. 11B5 contig368, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000585.1 Shewanella sp. 11B5 contig369, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000224.1 Shewanella sp. 11B5 contig37, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000586.1 Shewanella sp. 11B5 contig370, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000587.1 Shewanella sp. 11B5 contig371, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000588.1 Shewanella sp. 11B5 contig372, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000589.1 Shewanella sp. 11B5 contig373, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000590.1 Shewanella sp. 11B5 contig374, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000591.1 Shewanella sp. 11B5 contig375, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000592.1 Shewanella sp. 11B5 contig376, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000593.1 Shewanella sp. 11B5 contig377, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000594.1 Shewanella sp. 11B5 contig378, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000595.1 Shewanella sp. 11B5 contig379, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000225.1 Shewanella sp. 11B5 contig38, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000596.1 Shewanella sp. 11B5 contig380, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000597.1 Shewanella sp. 11B5 contig381, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000598.1 Shewanella sp. 11B5 contig382, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000599.1 Shewanella sp. 11B5 contig383, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000600.1 Shewanella sp. 11B5 contig384, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000601.1 Shewanella sp. 11B5 contig385, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000602.1 Shewanella sp. 11B5 contig386, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000603.1 Shewanella sp. 11B5 contig387, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000604.1 Shewanella sp. 11B5 contig388, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000605.1 Shewanella sp. 11B5 contig389, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000226.1 Shewanella sp. 11B5 contig39, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000606.1 Shewanella sp. 11B5 contig390, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000607.1 Shewanella sp. 11B5 contig391, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000608.1 Shewanella sp. 11B5 contig392, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000609.1 Shewanella sp. 11B5 contig393, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000610.1 Shewanella sp. 11B5 contig394, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000611.1 Shewanella sp. 11B5 contig395, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000612.1 Shewanella sp. 11B5 contig396, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000613.1 Shewanella sp. 11B5 contig397, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000614.1 Shewanella sp. 11B5 contig398, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000615.1 Shewanella sp. 11B5 contig399, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000262.1 Shewanella sp. 11B5 contig4, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000227.1 Shewanella sp. 11B5 contig40, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000616.1 Shewanella sp. 11B5 contig400, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000617.1 Shewanella sp. 11B5 contig401, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000618.1 Shewanella sp. 11B5 contig402, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000619.1 Shewanella sp. 11B5 contig403, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000620.1 Shewanella sp. 11B5 contig404, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000621.1 Shewanella sp. 11B5 contig405, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000622.1 Shewanella sp. 11B5 contig406, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000623.1 Shewanella sp. 11B5 contig407, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000624.1 Shewanella sp. 11B5 contig408, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000625.1 Shewanella sp. 11B5 contig409, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000228.1 Shewanella sp. 11B5 contig41, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000626.1 Shewanella sp. 11B5 contig410, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000627.1 Shewanella sp. 11B5 contig411, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000628.1 Shewanella sp. 11B5 contig412, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000629.1 Shewanella sp. 11B5 contig413, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000630.1 Shewanella sp. 11B5 contig414, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000631.1 Shewanella sp. 11B5 contig415, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000632.1 Shewanella sp. 11B5 contig416, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000633.1 Shewanella sp. 11B5 contig417, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000634.1 Shewanella sp. 11B5 contig418, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000635.1 Shewanella sp. 11B5 contig419, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000229.1 Shewanella sp. 11B5 contig42, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000636.1 Shewanella sp. 11B5 contig420, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000637.1 Shewanella sp. 11B5 contig421, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000638.1 Shewanella sp. 11B5 contig422, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000639.1 Shewanella sp. 11B5 contig423, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000640.1 Shewanella sp. 11B5 contig424, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000641.1 Shewanella sp. 11B5 contig425, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000642.1 Shewanella sp. 11B5 contig426, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000643.1 Shewanella sp. 11B5 contig427, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000644.1 Shewanella sp. 11B5 contig428, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000645.1 Shewanella sp. 11B5 contig429, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000230.1 Shewanella sp. 11B5 contig43, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000646.1 Shewanella sp. 11B5 contig430, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000647.1 Shewanella sp. 11B5 contig431, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000648.1 Shewanella sp. 11B5 contig432, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000649.1 Shewanella sp. 11B5 contig433, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000850.1 Shewanella sp. 11B5 contig434, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000851.1 Shewanella sp. 11B5 contig435, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000852.1 Shewanella sp. 11B5 contig436, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000853.1 Shewanella sp. 11B5 contig437, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000854.1 Shewanella sp. 11B5 contig438, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000855.1 Shewanella sp. 11B5 contig439, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000231.1 Shewanella sp. 11B5 contig44, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000856.1 Shewanella sp. 11B5 contig440, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000857.1 Shewanella sp. 11B5 contig441, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000858.1 Shewanella sp. 11B5 contig442, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000859.1 Shewanella sp. 11B5 contig443, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000860.1 Shewanella sp. 11B5 contig444, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000861.1 Shewanella sp. 11B5 contig445, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000862.1 Shewanella sp. 11B5 contig446, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000863.1 Shewanella sp. 11B5 contig447, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000864.1 Shewanella sp. 11B5 contig448, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000865.1 Shewanella sp. 11B5 contig449, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000232.1 Shewanella sp. 11B5 contig45, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000866.1 Shewanella sp. 11B5 contig450, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000867.1 Shewanella sp. 11B5 contig451, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000868.1 Shewanella sp. 11B5 contig452, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000869.1 Shewanella sp. 11B5 contig453, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000870.1 Shewanella sp. 11B5 contig454, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000871.1 Shewanella sp. 11B5 contig455, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000872.1 Shewanella sp. 11B5 contig456, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000873.1 Shewanella sp. 11B5 contig457, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000874.1 Shewanella sp. 11B5 contig458, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000875.1 Shewanella sp. 11B5 contig459, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000233.1 Shewanella sp. 11B5 contig46, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000876.1 Shewanella sp. 11B5 contig460, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000877.1 Shewanella sp. 11B5 contig461, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000878.1 Shewanella sp. 11B5 contig462, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000879.1 Shewanella sp. 11B5 contig463, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000880.1 Shewanella sp. 11B5 contig464, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000881.1 Shewanella sp. 11B5 contig465, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000882.1 Shewanella sp. 11B5 contig466, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000883.1 Shewanella sp. 11B5 contig467, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000884.1 Shewanella sp. 11B5 contig468, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000885.1 Shewanella sp. 11B5 contig469, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000234.1 Shewanella sp. 11B5 contig47, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000886.1 Shewanella sp. 11B5 contig470, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000887.1 Shewanella sp. 11B5 contig471, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000888.1 Shewanella sp. 11B5 contig472, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000889.1 Shewanella sp. 11B5 contig473, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000890.1 Shewanella sp. 11B5 contig474, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000891.1 Shewanella sp. 11B5 contig475, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000892.1 Shewanella sp. 11B5 contig476, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000893.1 Shewanella sp. 11B5 contig477, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000894.1 Shewanella sp. 11B5 contig478, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000895.1 Shewanella sp. 11B5 contig479, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000235.1 Shewanella sp. 11B5 contig48, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000896.1 Shewanella sp. 11B5 contig480, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000897.1 Shewanella sp. 11B5 contig481, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000898.1 Shewanella sp. 11B5 contig482, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000899.1 Shewanella sp. 11B5 contig483, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000900.1 Shewanella sp. 11B5 contig484, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000901.1 Shewanella sp. 11B5 contig485, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000902.1 Shewanella sp. 11B5 contig486, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000903.1 Shewanella sp. 11B5 contig487, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000904.1 Shewanella sp. 11B5 contig488, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000905.1 Shewanella sp. 11B5 contig489, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000236.1 Shewanella sp. 11B5 contig49, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000906.1 Shewanella sp. 11B5 contig490, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000907.1 Shewanella sp. 11B5 contig491, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000908.1 Shewanella sp. 11B5 contig492, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000909.1 Shewanella sp. 11B5 contig493, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000910.1 Shewanella sp. 11B5 contig494, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000911.1 Shewanella sp. 11B5 contig495, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000912.1 Shewanella sp. 11B5 contig496, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000913.1 Shewanella sp. 11B5 contig497, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000914.1 Shewanella sp. 11B5 contig498, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000915.1 Shewanella sp. 11B5 contig499, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000263.1 Shewanella sp. 11B5 contig5, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000237.1 Shewanella sp. 11B5 contig50, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000916.1 Shewanella sp. 11B5 contig500, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000917.1 Shewanella sp. 11B5 contig501, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000918.1 Shewanella sp. 11B5 contig502, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000919.1 Shewanella sp. 11B5 contig503, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000920.1 Shewanella sp. 11B5 contig504, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000921.1 Shewanella sp. 11B5 contig505, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000922.1 Shewanella sp. 11B5 contig506, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000923.1 Shewanella sp. 11B5 contig507, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000924.1 Shewanella sp. 11B5 contig508, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000925.1 Shewanella sp. 11B5 contig509, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000238.1 Shewanella sp. 11B5 contig51, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000926.1 Shewanella sp. 11B5 contig510, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000927.1 Shewanella sp. 11B5 contig511, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000928.1 Shewanella sp. 11B5 contig512, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000929.1 Shewanella sp. 11B5 contig513, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000930.1 Shewanella sp. 11B5 contig514, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000931.1 Shewanella sp. 11B5 contig515, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000932.1 Shewanella sp. 11B5 contig516, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000933.1 Shewanella sp. 11B5 contig517, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000934.1 Shewanella sp. 11B5 contig518, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000935.1 Shewanella sp. 11B5 contig519, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000239.1 Shewanella sp. 11B5 contig52, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000936.1 Shewanella sp. 11B5 contig520, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000937.1 Shewanella sp. 11B5 contig521, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000938.1 Shewanella sp. 11B5 contig522, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000939.1 Shewanella sp. 11B5 contig523, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000940.1 Shewanella sp. 11B5 contig524, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000941.1 Shewanella sp. 11B5 contig525, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000942.1 Shewanella sp. 11B5 contig526, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000943.1 Shewanella sp. 11B5 contig527, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000944.1 Shewanella sp. 11B5 contig528, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000945.1 Shewanella sp. 11B5 contig529, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000240.1 Shewanella sp. 11B5 contig53, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000946.1 Shewanella sp. 11B5 contig530, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000947.1 Shewanella sp. 11B5 contig531, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000948.1 Shewanella sp. 11B5 contig532, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000949.1 Shewanella sp. 11B5 contig533, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000950.1 Shewanella sp. 11B5 contig534, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000951.1 Shewanella sp. 11B5 contig535, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000952.1 Shewanella sp. 11B5 contig536, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000953.1 Shewanella sp. 11B5 contig537, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000954.1 Shewanella sp. 11B5 contig538, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000955.1 Shewanella sp. 11B5 contig539, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000241.1 Shewanella sp. 11B5 contig54, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000956.1 Shewanella sp. 11B5 contig540, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000957.1 Shewanella sp. 11B5 contig541, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000958.1 Shewanella sp. 11B5 contig542, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000959.1 Shewanella sp. 11B5 contig543, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000960.1 Shewanella sp. 11B5 contig544, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000961.1 Shewanella sp. 11B5 contig545, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000962.1 Shewanella sp. 11B5 contig546, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000963.1 Shewanella sp. 11B5 contig547, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000964.1 Shewanella sp. 11B5 contig548, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000965.1 Shewanella sp. 11B5 contig549, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000242.1 Shewanella sp. 11B5 contig55, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000966.1 Shewanella sp. 11B5 contig550, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000967.1 Shewanella sp. 11B5 contig551, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000968.1 Shewanella sp. 11B5 contig552, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000969.1 Shewanella sp. 11B5 contig553, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000970.1 Shewanella sp. 11B5 contig554, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000971.1 Shewanella sp. 11B5 contig555, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000972.1 Shewanella sp. 11B5 contig556, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000973.1 Shewanella sp. 11B5 contig557, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000974.1 Shewanella sp. 11B5 contig558, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000975.1 Shewanella sp. 11B5 contig559, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000243.1 Shewanella sp. 11B5 contig56, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000976.1 Shewanella sp. 11B5 contig560, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000977.1 Shewanella sp. 11B5 contig561, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000978.1 Shewanella sp. 11B5 contig562, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000979.1 Shewanella sp. 11B5 contig563, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000980.1 Shewanella sp. 11B5 contig564, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000981.1 Shewanella sp. 11B5 contig565, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000982.1 Shewanella sp. 11B5 contig566, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000983.1 Shewanella sp. 11B5 contig567, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000984.1 Shewanella sp. 11B5 contig568, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000985.1 Shewanella sp. 11B5 contig569, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000244.1 Shewanella sp. 11B5 contig57, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000986.1 Shewanella sp. 11B5 contig570, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000987.1 Shewanella sp. 11B5 contig571, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000988.1 Shewanella sp. 11B5 contig572, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000989.1 Shewanella sp. 11B5 contig573, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000990.1 Shewanella sp. 11B5 contig574, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000991.1 Shewanella sp. 11B5 contig575, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000992.1 Shewanella sp. 11B5 contig576, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000993.1 Shewanella sp. 11B5 contig577, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000994.1 Shewanella sp. 11B5 contig578, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000995.1 Shewanella sp. 11B5 contig579, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000245.1 Shewanella sp. 11B5 contig58, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000996.1 Shewanella sp. 11B5 contig580, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000997.1 Shewanella sp. 11B5 contig581, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000998.1 Shewanella sp. 11B5 contig582, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000999.1 Shewanella sp. 11B5 contig583, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001000.1 Shewanella sp. 11B5 contig584, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001001.1 Shewanella sp. 11B5 contig585, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001002.1 Shewanella sp. 11B5 contig586, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001003.1 Shewanella sp. 11B5 contig587, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001004.1 Shewanella sp. 11B5 contig588, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001005.1 Shewanella sp. 11B5 contig589, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000246.1 Shewanella sp. 11B5 contig59, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001006.1 Shewanella sp. 11B5 contig590, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001007.1 Shewanella sp. 11B5 contig591, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001008.1 Shewanella sp. 11B5 contig592, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001009.1 Shewanella sp. 11B5 contig593, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001010.1 Shewanella sp. 11B5 contig594, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001011.1 Shewanella sp. 11B5 contig595, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001012.1 Shewanella sp. 11B5 contig596, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001013.1 Shewanella sp. 11B5 contig597, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001014.1 Shewanella sp. 11B5 contig598, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001015.1 Shewanella sp. 11B5 contig599, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000264.1 Shewanella sp. 11B5 contig6, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000247.1 Shewanella sp. 11B5 contig60, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001016.1 Shewanella sp. 11B5 contig600, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001017.1 Shewanella sp. 11B5 contig601, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001018.1 Shewanella sp. 11B5 contig602, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001019.1 Shewanella sp. 11B5 contig603, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001020.1 Shewanella sp. 11B5 contig604, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001021.1 Shewanella sp. 11B5 contig605, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001022.1 Shewanella sp. 11B5 contig606, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001023.1 Shewanella sp. 11B5 contig607, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001024.1 Shewanella sp. 11B5 contig608, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001025.1 Shewanella sp. 11B5 contig609, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000248.1 Shewanella sp. 11B5 contig61, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001026.1 Shewanella sp. 11B5 contig610, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001027.1 Shewanella sp. 11B5 contig611, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001028.1 Shewanella sp. 11B5 contig612, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001029.1 Shewanella sp. 11B5 contig613, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001030.1 Shewanella sp. 11B5 contig614, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001031.1 Shewanella sp. 11B5 contig615, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001032.1 Shewanella sp. 11B5 contig616, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001033.1 Shewanella sp. 11B5 contig617, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001034.1 Shewanella sp. 11B5 contig618, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001035.1 Shewanella sp. 11B5 contig619, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000249.1 Shewanella sp. 11B5 contig62, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001036.1 Shewanella sp. 11B5 contig620, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001037.1 Shewanella sp. 11B5 contig621, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001038.1 Shewanella sp. 11B5 contig622, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001039.1 Shewanella sp. 11B5 contig623, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001040.1 Shewanella sp. 11B5 contig624, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001041.1 Shewanella sp. 11B5 contig625, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001042.1 Shewanella sp. 11B5 contig626, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001043.1 Shewanella sp. 11B5 contig627, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001044.1 Shewanella sp. 11B5 contig628, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001045.1 Shewanella sp. 11B5 contig629, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000250.1 Shewanella sp. 11B5 contig63, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001046.1 Shewanella sp. 11B5 contig630, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001047.1 Shewanella sp. 11B5 contig631, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001048.1 Shewanella sp. 11B5 contig632, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001049.1 Shewanella sp. 11B5 contig633, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001050.1 Shewanella sp. 11B5 contig634, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001051.1 Shewanella sp. 11B5 contig635, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001052.1 Shewanella sp. 11B5 contig636, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001053.1 Shewanella sp. 11B5 contig637, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001054.1 Shewanella sp. 11B5 contig638, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001055.1 Shewanella sp. 11B5 contig639, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000251.1 Shewanella sp. 11B5 contig64, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001056.1 Shewanella sp. 11B5 contig640, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001057.1 Shewanella sp. 11B5 contig641, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001058.1 Shewanella sp. 11B5 contig642, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001059.1 Shewanella sp. 11B5 contig643, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001060.1 Shewanella sp. 11B5 contig644, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001061.1 Shewanella sp. 11B5 contig645, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001062.1 Shewanella sp. 11B5 contig646, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001063.1 Shewanella sp. 11B5 contig647, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001064.1 Shewanella sp. 11B5 contig648, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001065.1 Shewanella sp. 11B5 contig649, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000252.1 Shewanella sp. 11B5 contig65, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001066.1 Shewanella sp. 11B5 contig650, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001067.1 Shewanella sp. 11B5 contig651, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001068.1 Shewanella sp. 11B5 contig652, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001069.1 Shewanella sp. 11B5 contig653, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001070.1 Shewanella sp. 11B5 contig654, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001071.1 Shewanella sp. 11B5 contig655, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001072.1 Shewanella sp. 11B5 contig656, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001073.1 Shewanella sp. 11B5 contig657, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001074.1 Shewanella sp. 11B5 contig658, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001075.1 Shewanella sp. 11B5 contig659, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000253.1 Shewanella sp. 11B5 contig66, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001076.1 Shewanella sp. 11B5 contig660, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001077.1 Shewanella sp. 11B5 contig661, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001078.1 Shewanella sp. 11B5 contig662, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001079.1 Shewanella sp. 11B5 contig663, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001080.1 Shewanella sp. 11B5 contig664, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001081.1 Shewanella sp. 11B5 contig665, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001082.1 Shewanella sp. 11B5 contig666, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001083.1 Shewanella sp. 11B5 contig667, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001084.1 Shewanella sp. 11B5 contig668, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001085.1 Shewanella sp. 11B5 contig669, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000254.1 Shewanella sp. 11B5 contig67, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001086.1 Shewanella sp. 11B5 contig670, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001087.1 Shewanella sp. 11B5 contig671, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001088.1 Shewanella sp. 11B5 contig672, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001089.1 Shewanella sp. 11B5 contig673, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001090.1 Shewanella sp. 11B5 contig674, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001091.1 Shewanella sp. 11B5 contig675, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001092.1 Shewanella sp. 11B5 contig676, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001093.1 Shewanella sp. 11B5 contig677, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001094.1 Shewanella sp. 11B5 contig678, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001095.1 Shewanella sp. 11B5 contig679, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000255.1 Shewanella sp. 11B5 contig68, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001096.1 Shewanella sp. 11B5 contig680, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001097.1 Shewanella sp. 11B5 contig681, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001098.1 Shewanella sp. 11B5 contig682, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001099.1 Shewanella sp. 11B5 contig683, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001100.1 Shewanella sp. 11B5 contig684, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001101.1 Shewanella sp. 11B5 contig685, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001102.1 Shewanella sp. 11B5 contig686, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001103.1 Shewanella sp. 11B5 contig687, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001104.1 Shewanella sp. 11B5 contig688, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001105.1 Shewanella sp. 11B5 contig689, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000256.1 Shewanella sp. 11B5 contig69, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001106.1 Shewanella sp. 11B5 contig690, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001107.1 Shewanella sp. 11B5 contig691, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001108.1 Shewanella sp. 11B5 contig692, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001109.1 Shewanella sp. 11B5 contig693, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001110.1 Shewanella sp. 11B5 contig694, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001111.1 Shewanella sp. 11B5 contig695, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001112.1 Shewanella sp. 11B5 contig696, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001113.1 Shewanella sp. 11B5 contig697, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001114.1 Shewanella sp. 11B5 contig698, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001115.1 Shewanella sp. 11B5 contig699, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000265.1 Shewanella sp. 11B5 contig7, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000257.1 Shewanella sp. 11B5 contig70, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001116.1 Shewanella sp. 11B5 contig700, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001117.1 Shewanella sp. 11B5 contig701, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001118.1 Shewanella sp. 11B5 contig702, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001119.1 Shewanella sp. 11B5 contig703, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001120.1 Shewanella sp. 11B5 contig704, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001121.1 Shewanella sp. 11B5 contig705, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001122.1 Shewanella sp. 11B5 contig706, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001123.1 Shewanella sp. 11B5 contig707, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001124.1 Shewanella sp. 11B5 contig708, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001125.1 Shewanella sp. 11B5 contig709, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000258.1 Shewanella sp. 11B5 contig71, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001126.1 Shewanella sp. 11B5 contig710, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001127.1 Shewanella sp. 11B5 contig711, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001128.1 Shewanella sp. 11B5 contig712, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001129.1 Shewanella sp. 11B5 contig713, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001130.1 Shewanella sp. 11B5 contig714, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001131.1 Shewanella sp. 11B5 contig715, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001132.1 Shewanella sp. 11B5 contig716, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001133.1 Shewanella sp. 11B5 contig717, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001134.1 Shewanella sp. 11B5 contig718, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01001135.1 Shewanella sp. 11B5 contig719, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000346.1 Shewanella sp. 11B5 contig72, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000650.1 Shewanella sp. 11B5 contig720, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000651.1 Shewanella sp. 11B5 contig721, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000652.1 Shewanella sp. 11B5 contig722, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000653.1 Shewanella sp. 11B5 contig723, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000654.1 Shewanella sp. 11B5 contig724, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000655.1 Shewanella sp. 11B5 contig725, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000656.1 Shewanella sp. 11B5 contig726, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000657.1 Shewanella sp. 11B5 contig727, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000658.1 Shewanella sp. 11B5 contig728, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000659.1 Shewanella sp. 11B5 contig729, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000347.1 Shewanella sp. 11B5 contig73, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000660.1 Shewanella sp. 11B5 contig730, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000661.1 Shewanella sp. 11B5 contig731, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000662.1 Shewanella sp. 11B5 contig732, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000663.1 Shewanella sp. 11B5 contig733, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000664.1 Shewanella sp. 11B5 contig734, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000665.1 Shewanella sp. 11B5 contig735, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000666.1 Shewanella sp. 11B5 contig736, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000667.1 Shewanella sp. 11B5 contig737, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000668.1 Shewanella sp. 11B5 contig738, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000669.1 Shewanella sp. 11B5 contig739, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000348.1 Shewanella sp. 11B5 contig74, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000670.1 Shewanella sp. 11B5 contig740, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000671.1 Shewanella sp. 11B5 contig741, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000672.1 Shewanella sp. 11B5 contig742, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000673.1 Shewanella sp. 11B5 contig743, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000674.1 Shewanella sp. 11B5 contig744, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000675.1 Shewanella sp. 11B5 contig745, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000676.1 Shewanella sp. 11B5 contig746, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000677.1 Shewanella sp. 11B5 contig747, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000678.1 Shewanella sp. 11B5 contig748, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000679.1 Shewanella sp. 11B5 contig749, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000349.1 Shewanella sp. 11B5 contig75, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000680.1 Shewanella sp. 11B5 contig750, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000681.1 Shewanella sp. 11B5 contig751, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000682.1 Shewanella sp. 11B5 contig752, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000683.1 Shewanella sp. 11B5 contig753, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000684.1 Shewanella sp. 11B5 contig754, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000685.1 Shewanella sp. 11B5 contig755, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000686.1 Shewanella sp. 11B5 contig756, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000687.1 Shewanella sp. 11B5 contig757, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000688.1 Shewanella sp. 11B5 contig758, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000689.1 Shewanella sp. 11B5 contig759, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000350.1 Shewanella sp. 11B5 contig76, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000690.1 Shewanella sp. 11B5 contig760, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000691.1 Shewanella sp. 11B5 contig761, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000692.1 Shewanella sp. 11B5 contig762, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000693.1 Shewanella sp. 11B5 contig763, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000694.1 Shewanella sp. 11B5 contig764, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000695.1 Shewanella sp. 11B5 contig765, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000696.1 Shewanella sp. 11B5 contig766, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000697.1 Shewanella sp. 11B5 contig767, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000698.1 Shewanella sp. 11B5 contig768, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000699.1 Shewanella sp. 11B5 contig769, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000351.1 Shewanella sp. 11B5 contig77, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000700.1 Shewanella sp. 11B5 contig770, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000701.1 Shewanella sp. 11B5 contig771, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000702.1 Shewanella sp. 11B5 contig772, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000703.1 Shewanella sp. 11B5 contig773, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000704.1 Shewanella sp. 11B5 contig774, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000705.1 Shewanella sp. 11B5 contig775, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000706.1 Shewanella sp. 11B5 contig776, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000707.1 Shewanella sp. 11B5 contig777, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000708.1 Shewanella sp. 11B5 contig778, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000709.1 Shewanella sp. 11B5 contig779, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000352.1 Shewanella sp. 11B5 contig78, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000710.1 Shewanella sp. 11B5 contig780, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000711.1 Shewanella sp. 11B5 contig781, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000712.1 Shewanella sp. 11B5 contig782, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000713.1 Shewanella sp. 11B5 contig783, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000714.1 Shewanella sp. 11B5 contig784, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000715.1 Shewanella sp. 11B5 contig785, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000716.1 Shewanella sp. 11B5 contig786, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000717.1 Shewanella sp. 11B5 contig787, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000718.1 Shewanella sp. 11B5 contig788, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000719.1 Shewanella sp. 11B5 contig789, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000353.1 Shewanella sp. 11B5 contig79, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000720.1 Shewanella sp. 11B5 contig790, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000721.1 Shewanella sp. 11B5 contig791, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000722.1 Shewanella sp. 11B5 contig792, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000723.1 Shewanella sp. 11B5 contig793, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000724.1 Shewanella sp. 11B5 contig794, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000725.1 Shewanella sp. 11B5 contig795, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000726.1 Shewanella sp. 11B5 contig796, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000727.1 Shewanella sp. 11B5 contig797, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000728.1 Shewanella sp. 11B5 contig798, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000729.1 Shewanella sp. 11B5 contig799, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000266.1 Shewanella sp. 11B5 contig8, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000354.1 Shewanella sp. 11B5 contig80, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000730.1 Shewanella sp. 11B5 contig800, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000731.1 Shewanella sp. 11B5 contig801, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000732.1 Shewanella sp. 11B5 contig802, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000733.1 Shewanella sp. 11B5 contig803, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000734.1 Shewanella sp. 11B5 contig804, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000735.1 Shewanella sp. 11B5 contig805, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000736.1 Shewanella sp. 11B5 contig806, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000737.1 Shewanella sp. 11B5 contig807, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000738.1 Shewanella sp. 11B5 contig808, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000739.1 Shewanella sp. 11B5 contig809, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000355.1 Shewanella sp. 11B5 contig81, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000740.1 Shewanella sp. 11B5 contig810, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000741.1 Shewanella sp. 11B5 contig811, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000742.1 Shewanella sp. 11B5 contig812, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000743.1 Shewanella sp. 11B5 contig813, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000744.1 Shewanella sp. 11B5 contig814, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000745.1 Shewanella sp. 11B5 contig815, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000746.1 Shewanella sp. 11B5 contig816, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000747.1 Shewanella sp. 11B5 contig817, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000748.1 Shewanella sp. 11B5 contig818, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000749.1 Shewanella sp. 11B5 contig819, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000356.1 Shewanella sp. 11B5 contig82, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000750.1 Shewanella sp. 11B5 contig820, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000751.1 Shewanella sp. 11B5 contig821, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000752.1 Shewanella sp. 11B5 contig822, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000753.1 Shewanella sp. 11B5 contig823, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000754.1 Shewanella sp. 11B5 contig824, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000755.1 Shewanella sp. 11B5 contig825, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000756.1 Shewanella sp. 11B5 contig826, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000757.1 Shewanella sp. 11B5 contig827, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000758.1 Shewanella sp. 11B5 contig828, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000759.1 Shewanella sp. 11B5 contig829, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000357.1 Shewanella sp. 11B5 contig83, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000760.1 Shewanella sp. 11B5 contig830, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000761.1 Shewanella sp. 11B5 contig831, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000762.1 Shewanella sp. 11B5 contig832, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000763.1 Shewanella sp. 11B5 contig833, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000764.1 Shewanella sp. 11B5 contig834, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000765.1 Shewanella sp. 11B5 contig835, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000766.1 Shewanella sp. 11B5 contig836, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000767.1 Shewanella sp. 11B5 contig837, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000768.1 Shewanella sp. 11B5 contig838, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000769.1 Shewanella sp. 11B5 contig839, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000358.1 Shewanella sp. 11B5 contig84, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000770.1 Shewanella sp. 11B5 contig840, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000771.1 Shewanella sp. 11B5 contig841, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000772.1 Shewanella sp. 11B5 contig842, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000773.1 Shewanella sp. 11B5 contig843, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000774.1 Shewanella sp. 11B5 contig844, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000775.1 Shewanella sp. 11B5 contig845, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000776.1 Shewanella sp. 11B5 contig846, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000777.1 Shewanella sp. 11B5 contig847, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000778.1 Shewanella sp. 11B5 contig848, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000779.1 Shewanella sp. 11B5 contig849, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000359.1 Shewanella sp. 11B5 contig85, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000780.1 Shewanella sp. 11B5 contig850, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000781.1 Shewanella sp. 11B5 contig851, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000782.1 Shewanella sp. 11B5 contig852, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000783.1 Shewanella sp. 11B5 contig853, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000784.1 Shewanella sp. 11B5 contig854, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000785.1 Shewanella sp. 11B5 contig855, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000786.1 Shewanella sp. 11B5 contig856, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000787.1 Shewanella sp. 11B5 contig857, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000788.1 Shewanella sp. 11B5 contig858, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000789.1 Shewanella sp. 11B5 contig859, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000360.1 Shewanella sp. 11B5 contig86, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000790.1 Shewanella sp. 11B5 contig860, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000791.1 Shewanella sp. 11B5 contig861, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000792.1 Shewanella sp. 11B5 contig862, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000793.1 Shewanella sp. 11B5 contig863, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000794.1 Shewanella sp. 11B5 contig864, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000795.1 Shewanella sp. 11B5 contig865, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000796.1 Shewanella sp. 11B5 contig866, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000797.1 Shewanella sp. 11B5 contig867, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000798.1 Shewanella sp. 11B5 contig868, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000799.1 Shewanella sp. 11B5 contig869, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000361.1 Shewanella sp. 11B5 contig87, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000800.1 Shewanella sp. 11B5 contig870, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000801.1 Shewanella sp. 11B5 contig871, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000802.1 Shewanella sp. 11B5 contig872, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000803.1 Shewanella sp. 11B5 contig873, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000804.1 Shewanella sp. 11B5 contig874, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000805.1 Shewanella sp. 11B5 contig875, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000806.1 Shewanella sp. 11B5 contig876, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000807.1 Shewanella sp. 11B5 contig877, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000808.1 Shewanella sp. 11B5 contig878, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000809.1 Shewanella sp. 11B5 contig879, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000362.1 Shewanella sp. 11B5 contig88, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000810.1 Shewanella sp. 11B5 contig880, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000811.1 Shewanella sp. 11B5 contig881, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000812.1 Shewanella sp. 11B5 contig882, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000813.1 Shewanella sp. 11B5 contig883, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000814.1 Shewanella sp. 11B5 contig884, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000815.1 Shewanella sp. 11B5 contig885, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000816.1 Shewanella sp. 11B5 contig886, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000817.1 Shewanella sp. 11B5 contig887, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000818.1 Shewanella sp. 11B5 contig888, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000819.1 Shewanella sp. 11B5 contig889, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000363.1 Shewanella sp. 11B5 contig89, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000820.1 Shewanella sp. 11B5 contig890, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000821.1 Shewanella sp. 11B5 contig891, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000822.1 Shewanella sp. 11B5 contig892, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000823.1 Shewanella sp. 11B5 contig893, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000824.1 Shewanella sp. 11B5 contig894, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000825.1 Shewanella sp. 11B5 contig895, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000826.1 Shewanella sp. 11B5 contig896, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000827.1 Shewanella sp. 11B5 contig897, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000828.1 Shewanella sp. 11B5 contig898, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000829.1 Shewanella sp. 11B5 contig899, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000267.1 Shewanella sp. 11B5 contig9, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000364.1 Shewanella sp. 11B5 contig90, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000830.1 Shewanella sp. 11B5 contig900, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000831.1 Shewanella sp. 11B5 contig901, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000832.1 Shewanella sp. 11B5 contig902, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000833.1 Shewanella sp. 11B5 contig903, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000834.1 Shewanella sp. 11B5 contig904, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000835.1 Shewanella sp. 11B5 contig905, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000836.1 Shewanella sp. 11B5 contig906, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000837.1 Shewanella sp. 11B5 contig907, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000838.1 Shewanella sp. 11B5 contig908, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000839.1 Shewanella sp. 11B5 contig909, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000365.1 Shewanella sp. 11B5 contig91, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000840.1 Shewanella sp. 11B5 contig910, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000841.1 Shewanella sp. 11B5 contig911, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000842.1 Shewanella sp. 11B5 contig912, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000843.1 Shewanella sp. 11B5 contig913, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000844.1 Shewanella sp. 11B5 contig914, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000845.1 Shewanella sp. 11B5 contig915, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000846.1 Shewanella sp. 11B5 contig916, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000847.1 Shewanella sp. 11B5 contig917, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000848.1 Shewanella sp. 11B5 contig918, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000849.1 Shewanella sp. 11B5 contig919, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000366.1 Shewanella sp. 11B5 contig92, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000017.1 Shewanella sp. 11B5 contig920, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000018.1 Shewanella sp. 11B5 contig921, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000019.1 Shewanella sp. 11B5 contig922, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000020.1 Shewanella sp. 11B5 contig923, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000021.1 Shewanella sp. 11B5 contig924, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000022.1 Shewanella sp. 11B5 contig925, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000023.1 Shewanella sp. 11B5 contig926, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000024.1 Shewanella sp. 11B5 contig927, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000025.1 Shewanella sp. 11B5 contig928, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000026.1 Shewanella sp. 11B5 contig929, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000367.1 Shewanella sp. 11B5 contig93, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000027.1 Shewanella sp. 11B5 contig930, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000028.1 Shewanella sp. 11B5 contig931, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000029.1 Shewanella sp. 11B5 contig932, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000030.1 Shewanella sp. 11B5 contig933, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000031.1 Shewanella sp. 11B5 contig934, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000032.1 Shewanella sp. 11B5 contig935, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000033.1 Shewanella sp. 11B5 contig936, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000034.1 Shewanella sp. 11B5 contig937, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000035.1 Shewanella sp. 11B5 contig938, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000036.1 Shewanella sp. 11B5 contig939, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000368.1 Shewanella sp. 11B5 contig94, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000037.1 Shewanella sp. 11B5 contig940, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000038.1 Shewanella sp. 11B5 contig941, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000039.1 Shewanella sp. 11B5 contig942, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000040.1 Shewanella sp. 11B5 contig943, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000041.1 Shewanella sp. 11B5 contig944, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000042.1 Shewanella sp. 11B5 contig945, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000043.1 Shewanella sp. 11B5 contig946, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000044.1 Shewanella sp. 11B5 contig947, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000045.1 Shewanella sp. 11B5 contig948, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000046.1 Shewanella sp. 11B5 contig949, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000369.1 Shewanella sp. 11B5 contig95, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000047.1 Shewanella sp. 11B5 contig950, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000048.1 Shewanella sp. 11B5 contig951, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000049.1 Shewanella sp. 11B5 contig952, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000050.1 Shewanella sp. 11B5 contig953, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000051.1 Shewanella sp. 11B5 contig954, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000052.1 Shewanella sp. 11B5 contig955, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000053.1 Shewanella sp. 11B5 contig956, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000054.1 Shewanella sp. 11B5 contig957, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000055.1 Shewanella sp. 11B5 contig958, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000056.1 Shewanella sp. 11B5 contig959, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000370.1 Shewanella sp. 11B5 contig96, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000057.1 Shewanella sp. 11B5 contig960, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000058.1 Shewanella sp. 11B5 contig961, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000059.1 Shewanella sp. 11B5 contig962, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000060.1 Shewanella sp. 11B5 contig963, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000061.1 Shewanella sp. 11B5 contig964, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000062.1 Shewanella sp. 11B5 contig965, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000063.1 Shewanella sp. 11B5 contig966, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000064.1 Shewanella sp. 11B5 contig967, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000065.1 Shewanella sp. 11B5 contig968, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000066.1 Shewanella sp. 11B5 contig969, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000371.1 Shewanella sp. 11B5 contig97, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000067.1 Shewanella sp. 11B5 contig970, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000068.1 Shewanella sp. 11B5 contig971, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000069.1 Shewanella sp. 11B5 contig972, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000070.1 Shewanella sp. 11B5 contig973, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000071.1 Shewanella sp. 11B5 contig974, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000072.1 Shewanella sp. 11B5 contig975, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000073.1 Shewanella sp. 11B5 contig976, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000074.1 Shewanella sp. 11B5 contig977, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000075.1 Shewanella sp. 11B5 contig978, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000076.1 Shewanella sp. 11B5 contig979, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000372.1 Shewanella sp. 11B5 contig98, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000077.1 Shewanella sp. 11B5 contig980, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000078.1 Shewanella sp. 11B5 contig981, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000079.1 Shewanella sp. 11B5 contig982, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000080.1 Shewanella sp. 11B5 contig983, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000081.1 Shewanella sp. 11B5 contig984, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000082.1 Shewanella sp. 11B5 contig985, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000083.1 Shewanella sp. 11B5 contig986, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000084.1 Shewanella sp. 11B5 contig987, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000085.1 Shewanella sp. 11B5 contig988, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000086.1 Shewanella sp. 11B5 contig989, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000373.1 Shewanella sp. 11B5 contig99, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000087.1 Shewanella sp. 11B5 contig990, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000088.1 Shewanella sp. 11B5 contig991, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000089.1 Shewanella sp. 11B5 contig992, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000090.1 Shewanella sp. 11B5 contig993, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000091.1 Shewanella sp. 11B5 contig994, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000092.1 Shewanella sp. 11B5 contig995, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000093.1 Shewanella sp. 11B5 contig996, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000094.1 Shewanella sp. 11B5 contig997, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000095.1 Shewanella sp. 11B5 contig998, whole genome shotgun sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_sh4FINAL
+# Subject: NZ_PJAP01000096.1 Shewanella sp. 11B5 contig999, whole genome shotgun sequence
+# 0 hits found
+# BLAST processed 1 queries

@@ -1,0 +1,21 @@
+# BLASTN 2.2.30+
+# Query: Contig_1
+# Subject: NC_017579.1 Shewanella baltica OS117, complete sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_1
+# Subject: NC_017577.1 Shewanella baltica OS117 plasmid pSBAL11701, complete sequence
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_1
+# Subject: NC_017580.1 Shewanella baltica OS117 plasmid pSBAL11702, complete sequence
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, subject length
+# 1 hits found
+Contig_1	NC_017580.1	84.44	90	10	3	2295	2382	4423	4510	2e-16	86.1	3181	91728
+# BLASTN 2.2.30+
+# Query: Contig_1
+# Subject: NC_017578.1 Shewanella baltica OS117 plasmid pSBAL11703, complete sequence
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, subject length
+# 1 hits found
+Contig_1	NC_017578.1	85.56	90	9	4	2295	2382	68935	68848	4e-18	91.6	3181	71173
+# BLAST processed 1 queries

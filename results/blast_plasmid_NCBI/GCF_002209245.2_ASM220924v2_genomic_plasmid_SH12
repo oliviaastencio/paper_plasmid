@@ -1,0 +1,11 @@
+# BLASTN 2.2.30+
+# Query: Contig_1
+# Subject: NZ_CP022089.2 Shewanella sp. FDAARGOS_354 chromosome, complete genome
+# 0 hits found
+# BLASTN 2.2.30+
+# Query: Contig_1
+# Subject: NZ_CP022090.2 Shewanella sp. FDAARGOS_354 plasmid unnamed1, complete sequence
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, subject length
+# 1 hits found
+Contig_1	NZ_CP022090.2	88.95	172	12	5	2230	2398	13641	13474	1e-52	  206	3181	38118
+# BLAST processed 1 queries

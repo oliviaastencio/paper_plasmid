@@ -1,44 +1,44 @@
-debuggroup summary 0.28s welcome to circos v0.67-7 16 Mar 2015 on Perl 5.014002
-debuggroup summary 0.28s loading configuration from file circos.conf
-debuggroup summary 0.28s found conf file circos.conf
-debuggroup summary 0.49s debug will appear for these features: summary,timer
-debuggroup summary 0.49s bitmap output image ./circos.png
-debuggroup summary 0.49s SVG output image ./circos.svg
-debuggroup summary 0.49s parsing karyotype and organizing ideograms
-debuggroup summary 0.50s karyotype has 71 chromosomes of total size 9,225,916
-debuggroup summary 0.53s applying global and local scaling
-debuggroup summary 0.55s allocating image, colors and brushes
-debuggroup summary 1.40s drawing 71 ideograms of total size 9,225,916
-debuggroup summary 1.40s drawing highlights and ideograms
-debuggroup summary 1.40s found conf file /mnt/home/soft/circos/programs/x86_64/0.67-7/bin/../etc/tracks/highlight.bg.conf
-debuggroup summary 1.40s process track_0 highlight /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/plasmids/results/sibelia_genomes_SH4_SH12/circos/circos.highlight.txt
-debuggroup summary 2.04s found conf file /mnt/home/soft/circos/programs/x86_64/0.67-7/bin/../etc/tracks/link.conf
-debuggroup summary 2.04s process track_0 link /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/plasmids/results/sibelia_genomes_SH4_SH12/circos/circos.segdup.txt
-debuggroup summary 2.05s drawing link track_0 z 0
-debuggroup timer 2.77s report circos 2.492 s
-debuggroup timer 2.77s report color 0.466 s
-debuggroup timer 2.77s report colorcache 0.005 s
-debuggroup timer 2.77s report colordefinitions 0.119 s
-debuggroup timer 2.77s report colorfetch 0.013 s
-debuggroup timer 2.77s report colorlists 0.009 s
-debuggroup timer 2.77s report colorlookups 0.005 s
-debuggroup timer 2.77s report colortransparency 0.244 s
-debuggroup timer 2.77s report dataparams 0.004 s
-debuggroup timer 2.77s report datarules 0.000 s
-debuggroup timer 2.77s report graphic_png_polygon 0.026 s
-debuggroup timer 2.77s report graphic_slice 0.076 s
-debuggroup timer 2.77s report graphic_slice_polygon_coord 0.014 s
-debuggroup timer 2.77s report graphic_slice_polygon_svg 0.018 s
-debuggroup timer 2.77s report graphic_slice_preprocess 0.014 s
-debuggroup timer 2.77s report highlights 0.015 s
-debuggroup timer 2.77s report ideograms_draw 0.622 s
-debuggroup timer 2.77s report ideograms_processing 0.026 s
-debuggroup timer 2.77s report ideograms_ticks_draw 0.351 s
-debuggroup timer 2.77s report ideograms_zoom 0.022 s
-debuggroup timer 2.77s report io 0.015 s
-debuggroup timer 2.77s report karyotype 0.010 s
-debuggroup timer 2.77s report parameter_seek 0.074 s
-debuggroup timer 2.77s report unitconvert 0.002 s
-debuggroup timer 2.77s report unitconvert_decision 0.000 s
-debuggroup timer 2.77s report unitconvert_delegate 0.001 s
-debuggroup timer 2.77s report unitparse 0.027 s
+debuggroup summary 0.10s welcome to circos v0.67-7 16 Mar 2015 on Perl 5.014002
+debuggroup summary 0.10s loading configuration from file circos.conf
+debuggroup summary 0.10s found conf file circos.conf
+debuggroup summary 0.30s debug will appear for these features: summary,timer
+debuggroup summary 0.30s bitmap output image ./circos.png
+debuggroup summary 0.30s SVG output image ./circos.svg
+debuggroup summary 0.30s parsing karyotype and organizing ideograms
+debuggroup summary 0.31s karyotype has 71 chromosomes of total size 9,225,916
+debuggroup summary 0.34s applying global and local scaling
+debuggroup summary 0.36s allocating image, colors and brushes
+debuggroup summary 0.93s drawing 71 ideograms of total size 9,225,916
+debuggroup summary 0.93s drawing highlights and ideograms
+debuggroup summary 0.93s found conf file /mnt/home/soft/circos/programs/x86_64/0.67-7/bin/../etc/tracks/highlight.bg.conf
+debuggroup summary 0.93s process track_0 highlight /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/plasmids/results/sibelia_genomes_SH4_SH12/circos/circos.highlight.txt
+debuggroup summary 1.58s found conf file /mnt/home/soft/circos/programs/x86_64/0.67-7/bin/../etc/tracks/link.conf
+debuggroup summary 1.58s process track_0 link /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/plasmids/results/sibelia_genomes_SH4_SH12/circos/circos.segdup.txt
+debuggroup summary 1.59s drawing link track_0 z 0
+debuggroup timer 2.31s report circos 2.213 s
+debuggroup timer 2.31s report color 0.469 s
+debuggroup timer 2.31s report colorcache 0.005 s
+debuggroup timer 2.31s report colordefinitions 0.120 s
+debuggroup timer 2.31s report colorfetch 0.013 s
+debuggroup timer 2.31s report colorlists 0.010 s
+debuggroup timer 2.31s report colorlookups 0.005 s
+debuggroup timer 2.31s report colortransparency 0.246 s
+debuggroup timer 2.31s report dataparams 0.004 s
+debuggroup timer 2.31s report datarules 0.000 s
+debuggroup timer 2.31s report graphic_png_polygon 0.026 s
+debuggroup timer 2.31s report graphic_slice 0.077 s
+debuggroup timer 2.31s report graphic_slice_polygon_coord 0.014 s
+debuggroup timer 2.31s report graphic_slice_polygon_svg 0.019 s
+debuggroup timer 2.31s report graphic_slice_preprocess 0.014 s
+debuggroup timer 2.31s report highlights 0.015 s
+debuggroup timer 2.31s report ideograms_draw 0.631 s
+debuggroup timer 2.31s report ideograms_processing 0.027 s
+debuggroup timer 2.31s report ideograms_ticks_draw 0.358 s
+debuggroup timer 2.31s report ideograms_zoom 0.023 s
+debuggroup timer 2.31s report io 0.016 s
+debuggroup timer 2.31s report karyotype 0.010 s
+debuggroup timer 2.31s report parameter_seek 0.076 s
+debuggroup timer 2.31s report unitconvert 0.002 s
+debuggroup timer 2.31s report unitconvert_decision 0.000 s
+debuggroup timer 2.31s report unitconvert_delegate 0.001 s
+debuggroup timer 2.31s report unitparse 0.027 s
