@@ -53,6 +53,7 @@ mkdir -p $out_put/blast_plasmid_genomes
 module load blast_plus/2.2.30+
 genomes=( 'e_Pdp11_1' 'e_Shewanella_putrefaciens_SH12_micro1'  'e_Shewanella_putrefaciens_SH6_micro12' 'e_Shewanella_putrefaciens_SdM1'  'e_Shewanella_putrefaciens_SH16_micro22'  'e_Shewanella_putrefaciens_SH9_micro13' 'e_Shewanella_putrefaciens_SdM2'  'e_Shewanella_putrefaciens_SH4_micro9' )
 plasmids_shewanella_NCBI=( 'GCF_000215895.1_ASM21589v1_genomic'   'GCF_003957745.1_ASM395774v1_genomic' 'GCF_000014665.1_ASM1466v1_genomic'   'GCF_002209245.2_ASM220924v2_genomic'  'GCF_006494715.1_ASM649471v1_genomic' 'GCF_000015845.1_ASM1584v1_genomic'  'GCF_002216875.1_ASM221687v1_genomic'  'GCF_009846595.1_ASM984659v1_genomic' 'GCF_000017325.1_ASM1732v1_genomic'   'GCF_002836075.1_ASM283607v1_genomic'  'GCF_011765625.1_ASM1176562v1_genomic' 'GCF_000018765.1_ASM1876v1_genomic'   'GCF_002836135.1_ASM283613v1_genomic'  'GCF_016757755.1_ASM1675775v1_genomic' 'GCF_000021665.1_ASM2166v1_genomic'   'GCF_002836795.1_ASM283679v1_genomic' 'GCF_000146165.2_ASM14616v2_genomic'  'GCF_003028295.1_ASM302829v1_genomic' 'GCF_000178875.2_ASM17887v2_genomic'  'GCF_003427415.1_ASM342741v1_genomic' 'GCF_000203935.1_ASM20393v1_genomic'  'GCF_003721455.1_ASM372145v1_genomic' )
+
 plasmids=( 'plasmid_SH12'  'plasmid_SH4' )
 for plasmid in "${plasmids[@]}"
 do
